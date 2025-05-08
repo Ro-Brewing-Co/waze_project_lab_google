@@ -11,8 +11,6 @@ La directiva aprecia todo el arduo trabajo que han realizado. Ahora, quieren que
 
 Su trabajo ayudará a la dirección a tomar decisiones empresariales informadas para prevenir el abandono de usuarios, mejorar la retención y hacer crecer el negocio de Waze.
 
----
-Aquí tienes la traducción completa al español en formato **Markdown**:
 
 ---
 
